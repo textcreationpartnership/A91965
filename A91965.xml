@@ -1,0 +1,1077 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The countrey-man's apothecary or, a rule by which countrey-men may safely walke in taking physicke. Not unusefull for cities. A treatise, shewing what herbe, plant, root, seed, or minerall, may be used in physick in the room of that which is wanting. Published for the good of the kingdome.</title>
+            <title>De succedaneis. English.</title>
+            <author>Rondelet, Guillaume, 1507-1566.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91965</idno>
+            <idno type="STC">Wing R1914</idno>
+            <idno type="STC">Thomason E1370_1</idno>
+            <idno type="STC">ESTC R203400</idno>
+            <idno type="EEBO-CITATION">99863365</idno>
+            <idno type="PROQUEST">99863365</idno>
+            <idno type="VID">115561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115561)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 179:E1370[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The countrey-man's apothecary or, a rule by which countrey-men may safely walke in taking physicke. Not unusefull for cities. A treatise, shewing what herbe, plant, root, seed, or minerall, may be used in physick in the room of that which is wanting. Published for the good of the kingdome.</title>
+                  <title>De succedaneis. English.</title>
+                  <author>Rondelet, Guillaume, 1507-1566.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Th. Andrews, in Smithfield, neer St Bartholomews gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Guillaume Rondelet, whose name appears on A2r.</note>
+                  <note>A translation of: De succedaneis.</note>
+                  <note>Annotation on Thomason copy: "July 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Materia medica --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115561:1" rendition="simple:additions"/>
+            <p>THE Countrey-man's APOTHECARY. OR, A Rule by which Countrey<g ref="char:EOLhyphen"/>men may ſafely walke in taking PHYSICKE. Not unuſefull for Cities.</p>
+            <p>A TREATISE, Shewing what Herbe, Plant, Root, Seed, or Minerall, may be uſed in Phyſick in the room of that which is wanting.</p>
+            <p>Publiſhed for the good of the KINGDOME.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Th. Andrews,</hi> in Smithfield, neer S<hi rend="sup">t</hi> 
+               <hi>Bartholomews</hi> gate. 1649.</p>
+            <pb facs="tcp:115561:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:115561:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115561:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Friend,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F thou wouldſt be found ſo to thy ſelfe, buy this handfull of Phy<g ref="char:EOLhyphen"/>ſicke, the benefit will repay its price treble; for it is thy good it ayms at; herein being ſhewed what Phyſicall Simple may be uſed inſtead of another, and that without danger to the ſicke. In Countrey Towns very often that Simple which is preſcribed by the Doctor or Phyſitian is not to be had: this ſhort Book tels what o<g ref="char:EOLhyphen"/>ther may be adminiſtred inſtead thereof, and will prove as effectuall in the operation. It hath been approved of by Latine Authors, and is now tranſlated, to be made uſe of among Engliſhmen; experience will tell thee more of its worth. Farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:115561:3"/>
+            <head>ΠΕΡῚ ΤΩ῀Ν ΑΝΤΙΒΑΛΛΟΜΈΝΩΝ. <hi>OR, A Treatiſe of Succedanea's,</hi> One Ingredient uſed for another in the adminiſtring of Phyſick.</head>
+            <byline>The learned worke of <hi>William Rondeletius</hi> ſometimes <hi>Regius Profeſſor Monspelienſis.</hi>
+            </byline>
+            <head type="sub">Tranſlated into Engliſh for publique good.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter I had a long time conſidered and enquired concerning thoſe Ingredients which Phyſitians uſe in adminiſtring Phyſick, inſtead of ſuch as are preſcri<g ref="char:EOLhyphen"/>bed, but are not to be got (commonly termed <hi>Suc<g ref="char:EOLhyphen"/>cedanea;</hi>) at length I lighted upon the Treatiſe of that moſt learned man, and famous Practitioner <hi>William Rondeletius</hi> concerning the ſame; which I thought fit to publiſh in Engliſh, for the generall good of my native Countrey, as a Piece very pro<g ref="char:EOLhyphen"/>fitable and uſefull; and have for the eaſier finding them out digeſted the Simples into an Alphabeti<g ref="char:EOLhyphen"/>call order, that ſo the benefit may be the greater.</p>
+            <p>Phyſicians are often forced to uſe one Simple in the place of another; for every ſoile doth not bring forth all Simples, nor can they everywhere meet with moſt proper Ingredients. In the Coun<g ref="char:EOLhyphen"/>trey
+<pb n="2" facs="tcp:115561:4"/>they are forced to uſe ſuch Simples as are at hand; and in aſmuch as upon ſudden occaſions pro<g ref="char:EOLhyphen"/>per Ingredients are not at hand, but the preſent muſt be uſed, therefore they muſt neceſſarily make choice of ſuch Simples as may with moſt ſafety be adminiſtred inſtead of thoſe which are moſt pro<g ref="char:EOLhyphen"/>per, but cannot at preſent be had; as we read <hi>Gal<g ref="char:EOLhyphen"/>len</hi> did, and that with good ſucceſſe, in the like caſe; For wanting <hi>Euphorbium</hi> to draw forth ſtings out of the freſh, he did inſtead thereof take from the Hives <hi>Propolis,</hi> that which Bees make at the mouth of their Hives to keep out the cold.</p>
+            <p>Theſe <hi>Succedanea</hi> are now more neceſſary then ever they were; both becauſe at this day we want many of thoſe ſimples which ancient Phyſicians did preſcribe, and made uſe of, being they were ſup<g ref="char:EOLhyphen"/>plied with a plentifull and fertile increaſe thereof in their own Countreys, Eaſtern and Forraigne; and alſo for that counterfeit, and (by the crafty in<g ref="char:EOLhyphen"/>vention of Jews and Merchants) adulterate Medi<g ref="char:EOLhyphen"/>cines are tranſported, which if we reject, we muſt of neceſſity ſubſtitute others in the place thereof; beſides many ancient ſimple Medicaments, former<g ref="char:EOLhyphen"/>ly well known, and very common, are at this day exolete, and grown out of knowledge. Very many uſefull compoſitions were deviſed and found out by the Arabians, and moſt ſoveraigne remedies of great uſe among them, the Simples whereof (by reaſon of the barbarouſneſſe of their terms) are altogether unknown unto us. For we are ignorant what they mean by thoſe uncouth ſtrange names, or elſe want the Simples themſelves.</p>
+            <p>But in the choice and uſe of theſe <hi>Succedanea,</hi> that moſt pernicious cuſtome among Phyſitians is deſervedly to be rejected, which hath now for many yeeres been much in uſe, though to the great pre<gap reason="illegible" resp="#UOM" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>e and wrong of Patients; in which, in
+<pb n="3" facs="tcp:115561:4"/>compounding Medicines, they confuſedly mingle all ſuch Drugs which are commended or preſcri<g ref="char:EOLhyphen"/>bed uſefull in ſuch a diſeaſe to be applied to the part affected, or but ſoveraine for ſome ſymptome; ſo that having made uſe of all of the ſame quality, they have not left unpreſcribed one Herbe or Drug which may be uſed inſtead of another; whereas, if they would content themſelves with one, two, or three Herbs, the Apothecary would never be deſti<g ref="char:EOLhyphen"/>tute of <hi>Succedanea;</hi> But becauſe quantity will be neceſſary, for one handfull adde two; for two, three or foure, &amp;c. Hence will enſue a double be<g ref="char:EOLhyphen"/>nefit; firſt, the more certain working of the Phy<g ref="char:EOLhyphen"/>ſicke, and a more eaſie and ſpeedy preparing there<g ref="char:EOLhyphen"/>of; and ſecondly, the greateſt grace of his Art, the Phyſitian will appeare to abound with variety of Drugs and <hi>Succedanea,</hi> when in his <hi>Recipies</hi> he can double, vary, and change his Drugs, and to under<g ref="char:EOLhyphen"/>ſtand more then the ordinary ſort of Mountebanks and Empericks. As for example, if in his decoction he hath preſcribed Borrage, but in defect thereof ſubſtitutes wild Bugloſſe or <hi>contra;</hi> again if garden Endive be wanting, to preſcribe the Juice or Sy<g ref="char:EOLhyphen"/>rope thereof; if Succory be not to be had, to pre<g ref="char:EOLhyphen"/>ſcribe Lyons tongue or Broad-leaſe, for ground Pine, Germander, or contrary; but what ſhall the Apothecary doe, if he preſcribe all Drugs in one and the ſame <hi>Recipe?</hi> certainly it will prove no o<g ref="char:EOLhyphen"/>ther then that Poeticall Chaos, a rude and indige<g ref="char:EOLhyphen"/>ſted lump.</p>
+            <p>Let them conſider and continually call to mind that of <hi>Villanovanus;</hi> it is deceit, couſenage to uſe compounds where ſimples may be eaſily had.</p>
+            <p>Let them leave off that bad cuſtome, and avoyd it as a dangerous rocke; let them likewiſe beware of naughty, covetous, diſhoneſt, unlearned, and unſkilfull Apothecaries, who greedy of wealth and
+<pb n="4" facs="tcp:115561:5"/>profit, commend an hodge-podge of even halfe rotten and putrified Drugs. Some do this that they may boaſt their ſtore, or elſe out of ignorance or pride; and if any learned Phyſitians do it, it is that they may not ſeem to be leſſe experienced in the knowledge of Drugs, then in the vertue and uſe thereof.</p>
+            <p>Laſtly, ſince there are ſome wholſome and fit compoſitions, by experience and reaſon received and approved, invented by ancient Phyſitians, we ought to ſearch out, approve, and provide ſome <hi>Succedanea,</hi> that ſo ſoveraigne and excellent medi<g ref="char:EOLhyphen"/>cines may be prepared, which in that reſpect are no waies to be refuſed and rejected, becauſe with ſuch good ſucceſſe ſome <hi>Succedanea,</hi> not inferiour to the ſimples preſcribed, may with equall benefit accompliſh and effect all the promiſes of genuine or naturall Phyſicke.</p>
+            <p>Let your <hi>Succedanea</hi> be as neere as may be, of the ſame genus and ſpecies, nature and kind.</p>
+            <list>
+               <item>Herbe For Herbe</item>
+               <item>Root For Root</item>
+               <item>Flower For Flower</item>
+               <item>Seed For Seed</item>
+               <item>Juice For Juice</item>
+               <item>Gumme For Gumme</item>
+               <item>Rozen For Rozen</item>
+               <item>Muſſilage For Muſſillage</item>
+               <item>Metall For Metall</item>
+               <item>Stone For Stone</item>
+               <item>Earth For Earth</item>
+               <item>Pitch For Pitch</item>
+               <item>Greaſe For Greaſe</item>
+               <item>Marrow For Marrow</item>
+               <item>Bird For Bird</item>
+               <item>Serpent For Serpent</item>
+               <item>One part of a living creature For Another.</item>
+            </list>
+            <pb n="5" facs="tcp:115561:5"/>
+            <list>
+               <head>Compoſition for Compoſition:</head>
+               <item>Powder For Powder</item>
+               <item>Trochus For Trochus</item>
+               <item>Opiate For Opiate</item>
+               <item>Electuary For Electuary</item>
+               <item>Pills For Pills</item>
+               <item>Lohoch For Lohoch</item>
+               <item>Confection For Confection</item>
+               <item>Conſerve For Conſerve</item>
+               <item>Plaiſter For Plaiſter</item>
+               <item>Oyle For Oyle, ſimple or compound.</item>
+               <item>Oyntment For Oyntment</item>
+               <item>Salve For Salve</item>
+            </list>
+            <p>
+               <label>The univerſall or common Theoreme or speculation.</label>
+The Drugs that are to be uſed one inſtead of another, whe<g ref="char:EOLhyphen"/>ther in inward or outward cau<g ref="char:EOLhyphen"/>ſes
+<list>
+                  <item>muſt agree in vertues &amp; ope<g ref="char:EOLhyphen"/>rations both
+<list>
+                        <item>ſecret and</item>
+                        <item>manifeſt,</item>
+                     </list>
+                  </item>
+                  <item>and in conſiſtence,</item>
+                  <item>and be alike in
+<list>
+                        <item>taſte</item>
+                        <item>ſmell</item>
+                        <item>age</item>
+                        <item>time and place of growth,</item>
+                        <item>nature, and temperament of quality.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Some Drugs may by change be uſed in outward remedies which are not to be uſed in inward ap<g ref="char:EOLhyphen"/>plyings, as the Juice of Carline Thiſtle may be uſed for the Juice of Lettice outwardly, but muſt not be taken for it inwardly, becauſe it is poyſon.</p>
+            <p>Sometime not the whole ſimple, but ſome parts muſt be ſubſtituted, or uſed inſtead of another as
+<pb n="6" facs="tcp:115561:6"/>in a <hi>Muccago Muſſilage</hi> of the ſeed of the <hi>Herbe Fleabane</hi> for a <hi>Muccago Muſſilage</hi> of the ſeed of Quinces: all the ſeed of the Herb is not to be uſed, becauſe the inward part thereof differs in <hi>temperament</hi> from a <hi>Muſſilage,</hi> and is thought to be venemous; nor may the Quince Apple be uſed for the ſeed of the Quince, becauſe they differ in o<g ref="char:EOLhyphen"/>peration and conſiſtence.</p>
+            <p>Some recipeis or preſcriptions in ſome remedies may be uſed inſtead of one another, as a conſerve for the ſyrrop of the ſame ſimple whether of fruit, flower or root: as the conſerve of <hi>Maidenhaire</hi> may be uſed for the ſyrrop of the ſame in <hi>opiates</hi>— but in the preſcribing of the ſyrrop it cannot be ſo, becauſe the forme or rule of the Phyſick will not permit it: For liquid druggs muſt be uſed in<g ref="char:EOLhyphen"/>ſtead of liquid, therefore if the ſyrrop be pre<g ref="char:EOLhyphen"/>ſcribed and not at hand, the deſtillation or deco<g ref="char:EOLhyphen"/>ction of the Herb is to be uſed inſtead thereof.</p>
+            <p>In ſome Candids or preſerves, we may uſe the ſyrrop of the conſerve, becauſe they are conſerved in the ſyrrop, as the ſyrrop of the conſerve of Le<g ref="char:EOLhyphen"/>mons, for the ſyrrop of Lemon pill; the ſyrrop of the Conſerve of the roote of Bugloſſe, for the ſyr<g ref="char:EOLhyphen"/>rop of Bugloſſe.</p>
+            <p>Emplaiſters and oyntments may be mutually uſed one for another; in caſe the part affected may be found to admit thereof: as the plaiſter of <hi>filii Zachariae,</hi> for the reſumptive oyntment, and contra: but in the paines of the breaſt or ſtomack unleſſe the ſtifneſſe thereof be diſſolved, or other<g ref="char:EOLhyphen"/>wiſe mollified, it is not to be uſed, becauſe plaiſters when they are laid on, hinder the ribs from dila<g ref="char:EOLhyphen"/>ting, enlarging themſelves, and the freeneſſe of breathing. A plaiſter of Ceruſſe or white lead, for <hi>unguentum album,</hi> unleſſe the inflammation doe forbid it, which will not admit of neither hard nor ſtiffe remedies.</p>
+            <div type="part">
+               <pb n="7" facs="tcp:115561:6"/>
+               <head>Divers other medicines may be uſed inſtead one of the other; provided that their vertue and operation be the ſame.</head>
+               <p>PIlls may be uſed inſtead of confections, and contra. as Hiera ſimply or aloes for the pils made of it, and the Herbe Benedicta or holywort, and contra for Pills to purge Phlegme, electuary diacarthame purgative with Lemon: for Pills to purge choler or melancholy, electuary of the juice of Roſes and contra; ſo that the quantity of every one be obſerved. The doſes of the Hiera and ſuch like Electuaries are to be augmented by reaſon of the quantity of honey, which doth allay the ſtrength of the Phyſick.</p>
+               <p>A Syrrop, for Eclegma or a lohoch, if it be taken by diſſolving in the mouth: as the ſyrrop of Jujuba for Lohoch ſound and approved, the ſyrrop of Poppeyes for <hi>Diacodion.</hi>
+               </p>
+               <p>A powder for a Trochiſous and contra. as the ſpecies of Diarrhodon for the Trochus of Diarrho<g ref="char:EOLhyphen"/>don, a Trochus of Squills, for a Lohoch of the ſame, the quantity being either auginented or dimini<g ref="char:EOLhyphen"/>ſhed according to the nature and quality of the diſ<g ref="char:EOLhyphen"/>eaſe and the ſcope of Phyſick</p>
+               <p>In ſimples ſometimes the parts are not ſtrictly obſerved, as Turbith the root for Agarick in a Tro<g ref="char:EOLhyphen"/>chus, and contra. Thus a ſimple may be put for a compoſition or contra, as Colocyn this wild gourds, or Colloquintida in a leſſe quantity, for Agarick; and a double or treble doſe of wild Saffron for A<g ref="char:EOLhyphen"/>garick, and contra. And yet a ſimple Medicine for this uſe to be put in the place of another is hard to be found, which can truly, everyway and in every part agree as <hi>Avicennas</hi> teſtifies, be<g ref="char:EOLhyphen"/>cauſe two ſimple medicines in caſe of want of o<g ref="char:EOLhyphen"/>thers of like vertue and efficacy can ſcarce ſafely
+<pb n="8" facs="tcp:115561:7"/>be applyed inſtead thereof. Which ſince it proves ſo difficult, he did apply ſometime two, ſometime three of equall weight and meaſure, ſometime in a doubled and trebled medicine, the fift or eight part of another Medicine being added; becauſe (ſaith he) there are very few medicaments which are wholely like others in temperament and ope<g ref="char:EOLhyphen"/>ration, or the ſame in conſiſtence in groſſeneſſe or thinneſſe of the parts, and in other the hidden properties.</p>
+               <p>The uſe of druggs or me<g ref="char:EOLhyphen"/>dicaments in compoſitions is various and changeable in reſpect, either
+<list>
+                     <item>Of The heat the cold<g ref="char:EOLhyphen"/>neſſe the moiſtneſſe the dri<g ref="char:EOLhyphen"/>neſſe. In the begin<g ref="char:EOLhyphen"/>ning of the firſt, or in the mid<g ref="char:EOLhyphen"/>dle and firſt de<g ref="char:EOLhyphen"/>gree, and ſo of the reſt.</item>
+                     <item>Or Of the parts the clammineſſe, the taſte, the ſmell, the colour. the groſſe<g ref="char:EOLhyphen"/>neſſe. or the thin<g ref="char:EOLhyphen"/>neſſe.</item>
+                  </list>
+               </p>
+               <p>And therefore that which is like another in temperament, ofttimes differs from it in the groſſeneſſe or thinneſſe of the parts, or ſome other faculty and quality; as ſome thinke they may uſe Galanga or ſweet cane for Folesfoot, or wild Spike<g ref="char:EOLhyphen"/>nard, &amp; yet they do not agree in every operation; for galanga can onely provoke urine, and bring downe womens courſes, and therefore to be ſup<g ref="char:EOLhyphen"/>plied for Spikenard in preſcriptions to provoke them: it hath no vertue to cauſe vomitting as Spikenard hath. In like manner the Hyacinth may be uſed inſtead of Anchuſa or Bugloſſe Orcha<g ref="char:EOLhyphen"/>net: but if there be need of Anchuſa for the Co<g ref="char:EOLhyphen"/>lour, as in oyntments, the Hyacinth is not proper: but inſtead thereof, dyers lacca or Red gum, Bra<g ref="char:EOLhyphen"/>ſile,
+<pb n="9" facs="tcp:115561:7"/>red Santalum, Painters Lacca or red gum, or ſcarlet Dye. Aſſa dulcis or that ſweet gumme is not to be uſed for Aſſa foetida becauſe of the ſmell, as Avicennas did in the griefe of the wombe, ſo by a ſweet ſmell to have forſt it upward, but it drawes towards ſweet, flies from ſtinking ſents or ſmells.</p>
+               <p>Some druggs are uſed for taſte; which yet are not convenient in every particular, as Honey, and Manna may be uſed for Sugar in ſome ſorts of re<g ref="char:EOLhyphen"/>medies as in laxative medicines, but in no wiſe in binding receits; for Manna is more looſening then either Sugar or Honey. Muccus a Muſſilage, is uſefull in a bloody Flux, and is uſed for a Len<g ref="char:EOLhyphen"/>tor. Fenegreek, which makes a Muſſilage but hot, and therefore not to be uſed in ſpitting of blood, as in externall remedies, as in the in<g ref="char:EOLhyphen"/>flammation of the upper skin of the eyes, in which the white of an egge is preferred in the beginning and increaſe of the griefe, but in the ſtay and declining thereof a Muſſilage fenegreeke is com<g ref="char:EOLhyphen"/>mended.</p>
+               <p>Thoſe druggs which may be made uſe of inſtead of others, are not yet to be added in every ſort of remedies; as Myrrhe may be uſed for Bdellium in Pills and oyntments, but in Pills made of Bdel<g ref="char:EOLhyphen"/>lium it muſt in no wayes be added, for Myrrhe cauſeth a greater Flux of blood and of the Heme<g ref="char:EOLhyphen"/>rods, as alſo of womens courſes. Therefore in thoſe druggs that are ſubſtituted this rule is to be obſerved, that the ſuppoſititious drugg, that is uſed in the Room of the adulterate genuine drugg, can effect the ſame which the genuine ſhould, whether it be to heate, to coole, to make moiſt, to dry, to bind, to looſe, or to concoct. For Wormewood (ſimply taken) Sea Wormewood, or Southerne<g ref="char:EOLhyphen"/>wood may be uſed; For Sea Wormewood, or
+<pb n="10" facs="tcp:115561:8"/>Wormewood of Mount Taurus, Roman may be uſed; For Roman, the Wormwood which growes in the place where thou dwelleſt.</p>
+               <p>This may be done in the choiſe of all Herbs, they may be of any Countrey, yet let your choiſe be of ſuch an one as is an Herb of the neereſt bor<g ref="char:EOLhyphen"/>dering Country, or at leaſt of the ſame tempera<g ref="char:EOLhyphen"/>ture, of which ſort is <hi>Craux</hi> vulgarly <hi>Gallo</hi> a Pro<g ref="char:EOLhyphen"/>vince of Creet, where growes the beſt and grea<g ref="char:EOLhyphen"/>teſt ſtore of our narrow leafe Thyme and Epithy<g ref="char:EOLhyphen"/>mon or that which growes oft upon it. In the ſe<g ref="char:EOLhyphen"/>cond place Herbs of moiſt Countreys, if it be a ſcortching Summer, may be uſed for Herbs of an hot Countrey, which <hi>Galen</hi> informes us he did in preparing a Theriace or remedy againſt Poyſon, uſing the rocke-parſley of another Countrey for Macedonian rock parſley; and yet the temperature of the Country ought to be obſerved, for the Countrey doth very much adde to, or diminiſh from the vertue and goodneſſe of the medicament; for the Sclavonian Flower deluce we may uſe the Venetian, and for the African the Florentine.</p>
+            </div>
+            <div type="part">
+               <head>I come now to ſet downe the <hi>Succedanea,</hi> and firſt of Rootes.</head>
+               <p>FOr Acorum or Galanga, take Calamus aroma<g ref="char:EOLhyphen"/>ticus or ſweet cane in the ſhops.</p>
+               <p>For the ſame, in medicines to provoke and bring downe urine and womens courſes, take the Rootes of Aſarum folesfoot, or wild Spiknard.</p>
+               <p>For Althaea Garden or wild Take the Roots of Mal<g ref="char:EOLhyphen"/>lowes.</p>
+               <p>For Apium or Parſley. Rock or Macedonian.</p>
+               <p>For Ariſtolochy or long Birthwort; take the round; and contrary, and any one ſort for all.</p>
+               <p>For <hi>Aſarus,</hi> Folesfoot or wild Spicknard, when
+<pb n="11" facs="tcp:115561:8"/>preſcribed in a Purge or Vomit, take Helle<g ref="char:EOLhyphen"/>bore, the ſeed of <hi>Geniſta</hi> Broome, and <hi>Rapha<g ref="char:EOLhyphen"/>nus</hi> or Raddiſh ſeed.</p>
+               <p>For <hi>Asparagus,</hi> Garden Sporrage: take <hi>Corruda</hi> or wild Sporrage, but in a leſſe quantity, be<g ref="char:EOLhyphen"/>cauſe it is ſharper and ſtronger.</p>
+               <p>For <hi>Calamus odoratus,</hi> ſweet Gumme of <hi>Libanus:</hi> take <hi>Schaenanthum,</hi> ſweet Ruſh, Camels haire, <hi>Acorus,</hi> or ſweet Flags; if for ſmel, yel. Sanders.</p>
+               <p>For The rinde of the root of the Caper tree: take the rinde of the root of Tamariſk, Wall<g ref="char:EOLhyphen"/>wort or Dwarfe Elderne, Laurell, Poplar and Elder trees.</p>
+               <p>For <hi>Coſtum,</hi> the root of an Indian herbe: take baſtard Pelitory.</p>
+               <p>For <hi>Galanga,</hi> the herbe Galingall: take round Cyperus, a kind of Ruſh: and <hi>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntra.</hi>
+               </p>
+               <p>For <hi>Gentian</hi> or Felwort: take halfe the quan<g ref="char:EOLhyphen"/>tity of <hi>Aſarus</hi> Folesfoot, and the root of Caper tree.</p>
+               <p>For <hi>Lapathum</hi> Sorrell or kind of Dock: take the root of <hi>Oxalis</hi> or ſowre dock.</p>
+               <p>For <hi>Nardus,</hi> Spicknard: take any ſort of it.</p>
+               <p>For <hi>Rhabarbarum,</hi> Rubarbe for purging: take juice of Roſes.</p>
+               <p>For <hi>Rha</hi> Barbary Rubarbe to bind: take the root of Water dock; the greater Galin<g ref="char:EOLhyphen"/>gall if there be need of hear, and of Biſtorta the herbe if there be want of cooling.</p>
+               <p>For <hi>Rha ponticum:</hi> take the root of great Cen<g ref="char:EOLhyphen"/>tory<g ref="char:punc">▪</g> a pill of Rubarbe firſt.</p>
+               <p>For Pontick Rubarbe infuſed and ſtrained: and roſted Rubar be is approved by many for em<g ref="char:EOLhyphen"/>pyreuma or a collection of corrupt matter in a mans body.</p>
+               <p>For <hi>Ruſcum,</hi> Butchers broome: take the root
+<pb n="12" facs="tcp:115561:9"/>of garden Sporage, and <hi>contra.</hi>
+               </p>
+               <p>For <hi>Secacul,</hi> Sampire: take the root of a Sea<g ref="char:EOLhyphen"/>parſnip, <hi>Paſtinaca.</hi>
+               </p>
+               <p>For <hi>Serpentaria</hi> Dragon, take <hi>Sarus Dracunculus,</hi> Dragonwort.</p>
+               <p>For <hi>Turbith,</hi> a root to purge phlegme take the root of <hi>Thapſia, Turbith Meſuae,</hi> Agarick made into a Tro<g ref="char:EOLhyphen"/>chus, and Colochynthis or wilde gourd in a leſſe quantity or doſis.</p>
+               <p>For <hi>Zingiber,</hi> take Ginger, <hi>Coſtum, Helenium,</hi> Helecompane, <hi>Pyrethrum,</hi> baſtard Pelitory.</p>
+               <p>For <hi>Zingiber,</hi> take <hi>Mechin,</hi> Woolfbane.</p>
+               <div type="section">
+                  <head>Succedanea of Herbs</head>
+                  <p>Let <hi>Succedanea</hi> as neer as can be alike in every part in vertue, in kind and in ſort.
+<list>
+                        <item>
+                           <hi>Abrotoni</hi> Southernwood, </item>
+                        <item>
+                           <hi>Abſinthii</hi> Wormwood,</item>
+                        <item>
+                           <hi>Aconiti</hi> Woolfebane,</item>
+                        <item>
+                           <hi>Adianthi</hi> Venus haire,</item>
+                        <item>
+                           <hi>Allii</hi> Garlick,</item>
+                        <item>
+                           <hi>Anagallidis</hi> Pimpernell,</item>
+                        <item>
+                           <hi>Anchuſae</hi> Orchanet,</item>
+                        <item>
+                           <hi>Anemones</hi> Redweed or wild Poppey,</item>
+                        <item>
+                           <hi>Anthemidis</hi> Camomile,</item>
+                        <item>
+                           <hi>Apii</hi> Parſley,</item>
+                        <item>
+                           <hi>Ariſtolochiae</hi> Birthwort,</item>
+                        <item>
+                           <hi>Asparagi</hi> Sporage,</item>
+                        <item>
+                           <hi>Betae</hi> Beete</item>
+                        <item>
+                           <hi>Bituminis</hi> Brimſtone,</item>
+                        <item>
+                           <hi>Bliti</hi> Spinage,</item>
+                        <item>
+                           <hi>Braſſicae</hi> Colewort,</item>
+                        <item>
+                           <hi>Caepae</hi> Onyons</item>
+                        <pb n="13" facs="tcp:115561:9"/>
+                        <item>
+                           <hi>Calaminthae</hi> Calaminth,</item>
+                        <item>
+                           <hi>Cedri</hi> Cedar,</item>
+                        <item>
+                           <hi>Chelidonii</hi> Celandine,</item>
+                        <item>
+                           <hi>Chondrillae</hi> Succory,</item>
+                        <item>
+                           <hi>Conizae</hi> Fleabane,</item>
+                        <item>
+                           <hi>Coſti</hi> an Indian herbe.</item>
+                        <item>
+                           <hi>Cyelaminis</hi> an Herbe,</item>
+                        <item>
+                           <hi>Dauci</hi> Carrot,</item>
+                        <item>
+                           <hi>Equiſeti</hi> the herb, Horſetaile.</item>
+                        <item>
+                           <hi>Hederae</hi> Ivy, except ground Ivy,</item>
+                        <item>
+                           <hi>Heliotropii</hi> Turnſol,</item>
+                        <item>
+                           <hi>Hieracii</hi> Hawke weed,</item>
+                        <item>
+                           <hi>Intybi</hi> an Herbe.</item>
+                        <item>
+                           <hi>Juniperi</hi> Juniper,</item>
+                        <item>
+                           <hi>Leucoii</hi> Gelliflower</item>
+                        <item>
+                           <hi>Lychnidis</hi> an Herbe,</item>
+                        <item>
+                           <hi>Malvae</hi> Mallowes,</item>
+                        <item>
+                           <hi>Marrubii</hi> Horehound,</item>
+                        <item>
+                           <hi>Mercurialis</hi> Mercury the herbe,</item>
+                        <item>
+                           <hi>Myrthi</hi> Mirtle,</item>
+                        <item>
+                           <hi>Nardi</hi> Spiknard,</item>
+                        <item>
+                           <hi>Nympheae</hi> Water Lilly,</item>
+                        <item>
+                           <hi>Orcheos</hi> Ragwort</item>
+                        <item>
+                           <hi>Origani</hi> Organy,</item>
+                        <item>
+                           <hi>Panacis</hi> an herbe,</item>
+                        <item>
+                           <hi>Paſtinacae</hi> Parſhip,</item>
+                        <item>
+                           <hi>Picis</hi> Pitch,</item>
+                        <item>
+                           <hi>Piperis</hi> Pepper,</item>
+                        <item>
+                           <hi>Plantaginis</hi> Plantaine,</item>
+                        <item>
+                           <hi>Polygoni</hi> Polygony, male and female,</item>
+                        <item>
+                           <hi>Porri</hi> Leeke,</item>
+                        <item>
+                           <hi>Ranunculi</hi> Frogwort,</item>
+                        <item>
+                           <hi>Reſinae</hi> Roſin,</item>
+                        <item>
+                           <hi>Rhamni</hi> Bramble or Chriſts-Thorne,</item>
+                        <pb n="14" facs="tcp:115561:10"/>
+                        <item>
+                           <hi>Roſmarini</hi> Roſemary,</item>
+                        <item>
+                           <hi>Rubi</hi> Great Bramble,</item>
+                        <item>
+                           <hi>Rumicis</hi> Soure docke,</item>
+                        <item>
+                           <hi>Rutae</hi> Rue,</item>
+                        <item>
+                           <hi>Sabinae</hi> Savin,</item>
+                        <item>
+                           <hi>Seſelis</hi> an Herbe,</item>
+                        <item>
+                           <hi>Sideritidis</hi> Wall Sage,</item>
+                        <item>
+                           <hi>Symphyti</hi> Wallwort,</item>
+                        <item>
+                           <hi>Tithymalorum</hi>
+                           <list>
+                              <item>Sea Lettice,</item>
+                              <item>Wolfs milke,</item>
+                              <item>Milke Thiſtle,</item>
+                           </list>
+                        </item>
+                        <item>
+                           <hi>Tribuli</hi> Thiſtle,</item>
+                        <item>
+                           <hi>Valerianae</hi> Setwall,</item>
+                        <item>
+                           <hi>
+                              <g ref="char:V">Ʋ</g>eratri</hi> Helebore,</item>
+                        <item>
+                           <hi>Verbaſci</hi> Longwort,</item>
+                        <item>
+                           <hi>
+                              <g ref="char:V">Ʋ</g>rticae</hi> Nettle,</item>
+                     </list>
+Of all the ſorts of them.</p>
+                  <p>And laſtly, all herbs of the ſame ſpecies or ſort may be uſed for another, unleſſe ſomething diſco<g ref="char:EOLhyphen"/>vered forbid, as in Perwinkle of which <hi>Dioſcor.</hi> writes that one ſort gripes or frets, another loo<g ref="char:EOLhyphen"/>ſens the belly, another gathers and removes choller &amp; phlegme, but the chief ſort ſtaies womens cour<g ref="char:EOLhyphen"/>ſes, and the Dyſentery or bloody-flux. So the wilde Cucumber and Garden melons, and Colocynthis differ in their operation; but this is wont to be found in very few herbs.</p>
+                  <p>Alſo heed is to be taken to the parts; for ſome differ in their qualities, as the root <hi>Medium</hi> deco<g ref="char:EOLhyphen"/>cted ſtayes womens courſes, being taken for certain daies: but the ſeed thereof taken in Wine brings them down. The ſeed of Juniper may be taken in<g ref="char:EOLhyphen"/>ward, but the ſhavings are diſcovered to be deadly to kill. The Juice of the herb Coriander is thought to be mortall, and yet the ſeed medicinall. There<g ref="char:EOLhyphen"/>fore it is better for Phyſitians to uſe univerſals at no time, but rather particulars; for, for the moſt
+<pb n="15" facs="tcp:115561:10"/>part there is the greateſt difference betwixt thoſe which would be thought the neereſt.</p>
+               </div>
+               <div type="section">
+                  <head>Succedanea of Herbs and Leaves</head>
+                  <p>
+                     <table>
+                        <row role="label">
+                           <cell>Therefore for</cell>
+                           <cell>Take </cell>
+                        </row>
+                        <row>
+                           <cell>Adianth Venus haire,</cell>
+                           <cell>Salvian, <hi>Politriton</hi> Maiden haire, or Black Venus haire.</cell>
+                        </row>
+                        <row>
+                           <cell>Leaves of <hi>Alſine,</hi> Chickweed,</cell>
+                           <cell>The leaves of <hi>Hel<g ref="char:EOLhyphen"/>xine</hi> Pellitory of the wall, and <hi>contr.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Amylon</hi> the floure of Wheat,</cell>
+                           <cell>The flour of <hi>Siligo,</hi> or Rie, dry.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Apium mon.</hi> Moun<g ref="char:EOLhyphen"/>taine Parſley.</cell>
+                           <cell>Garden Parſley dry and in a greater doſe.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Beta al.</hi> white Beet</cell>
+                           <cell>Black Beet.</cell>
+                        </row>
+                        <row>
+                           <cell>Betony,</cell>
+                           <cell>Verveine.</cell>
+                        </row>
+                        <row>
+                           <cell>Herbs <hi>Bubonium Inguinaria</hi> or Star-wort,</cell>
+                           <cell>The Herbe <hi>Antirrhinon,</hi> and <hi>contra.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Bugloſſe or broad-leafed Burrage,</cell>
+                           <cell>Narrow-leafed Bugloſſe.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Caepe</hi> Onyon,</cell>
+                           <cell>
+                              <hi>Portulacam</hi> Pur<g ref="char:EOLhyphen"/>ſlaine.</cell>
+                        </row>
+                        <row>
+                           <cell>The Herbe <hi>Chamae<g ref="char:EOLhyphen"/>lea,</hi>
+                           </cell>
+                           <cell>The herbe <hi>Thyme<g ref="char:EOLhyphen"/>laea, Chamepytis,</hi> Ground pine or Laurell.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Chamaepyti</hi> or Ground Pine,</cell>
+                           <cell>
+                              <hi>Chamaedrys, German<g ref="char:EOLhyphen"/>der,</hi> or the leaves of <hi>Eupatoria, Agri<g ref="char:EOLhyphen"/>mony.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Clchoria ſyl</hi>-Woodſuccory,</cell>
+                           <cell>Lyons tooth.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Coniza</hi> Fleabane, the firſt ſort,</cell>
+                           <cell>The ſecond.</cell>
+                        </row>
+                        <row>
+                           <cell>The ſecond,</cell>
+                           <cell>The third dry, &amp; in a greater quantity.</cell>
+                        </row>
+                        <pb n="16" facs="tcp:115561:11"/>
+                        <row>
+                           <cell>The leaves of Co<g ref="char:EOLhyphen"/>riander.</cell>
+                           <cell>The leaves of Garden <hi>Petroſeline</hi> outwardly onely.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Dauci</hi> the leaves of Carrot,</cell>
+                           <cell>The leaves of either wild or garden Parſnip</cell>
+                        </row>
+                        <row>
+                           <cell>The firſt ſort of Dittany.</cell>
+                           <cell>The ſecond, third, and ſo of the reſt.</cell>
+                        </row>
+                        <row>
+                           <cell>The herbe <hi>Dori<g ref="char:EOLhyphen"/>cneon,</hi>
+                           </cell>
+                           <cell>Mandrake and <hi>contra.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Filix femi.</hi> ſemi<g ref="char:EOLhyphen"/>nine Fearne,</cell>
+                           <cell>Maſculine.</cell>
+                        </row>
+                        <row>
+                           <cell>Fumetory,</cell>
+                           <cell>Seenie.</cell>
+                        </row>
+                        <row>
+                           <cell>Halyca Barley,</cell>
+                           <cell>An whole <hi>Ptiſan</hi> of <hi>A<g ref="char:EOLhyphen"/>vena</hi> Oates.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of <hi>Hyp<g ref="char:EOLhyphen"/>polapathon,</hi> Pati<g ref="char:EOLhyphen"/>ence: Monks Ru<g ref="char:EOLhyphen"/>barb,</cell>
+                           <cell>The leaves of <hi>Lapathon</hi> a kind of dock.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hyppomarathon</hi> wild Fennell,</cell>
+                           <cell>Coriander or <hi>Petroſe<g ref="char:EOLhyphen"/>line.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Leaves of <hi>Hypec<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>i</hi> Rue,</cell>
+                           <cell>The leaves of Poppey.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hypericon</hi> St. <hi>Iohns wort, Androſemon Tuſane,</hi>
+                           </cell>
+                           <cell>The herbe <hi>Aſcyron</hi> or <hi>Schoenanthon.</hi> Camels Haire.</cell>
+                        </row>
+                        <row>
+                           <cell>Hyſope,</cell>
+                           <cell>
+                              <hi>Organie</hi> or ſweet Mar<g ref="char:EOLhyphen"/>jorum.</cell>
+                        </row>
+                        <row>
+                           <cell>Indian Malaba<g ref="char:EOLhyphen"/>thron, the leafe,</cell>
+                           <cell>The leaves of <hi>Citron,</hi> Lemon tree, Cinamon tree, or common <hi>Mala bathron.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of <hi>La<g ref="char:EOLhyphen"/>bruſca</hi> or wild vine </cell>
+                           <cell>The leaves of garden Vine, leſſe prun'd.</cell>
+                        </row>
+                        <row>
+                           <cell>Lettice,</cell>
+                           <cell>Garden Endive, &amp; <hi>cont.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Lathris Spurge,</hi> the leaves,</cell>
+                           <cell>The leaves of <hi>Tithyma<g ref="char:EOLhyphen"/>ris</hi> or Sea Lettice.</cell>
+                        </row>
+                        <row>
+                           <cell>Laurell leaves,</cell>
+                           <cell>Lemon leaves.</cell>
+                        </row>
+                        <row>
+                           <cell>The herbe <hi>Lepi-</hi>
+                           </cell>
+                           <cell>The herbe <hi>Drabe Iberis</hi> or wild creſſes or water creſſes.</cell>
+                        </row>
+                        <pb n="17" facs="tcp:115561:11"/>
+                        <row>
+                           <cell>
+                              <hi>Sterile Libanotis.</hi>
+                           </cell>
+                           <cell>The leaves of crowne Frankinſence.</cell>
+                        </row>
+                        <row>
+                           <cell>Mallowes <hi>Arbweſ.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Althaea</hi> or Mallowes of another kind.</cell>
+                        </row>
+                        <row>
+                           <cell>Wood Mallowes.</cell>
+                           <cell>Garden Mallowes.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Meliſſa Mint.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Marrubium Horebound</hi> and contra. or the Rine of the Le<g ref="char:EOLhyphen"/>mon Tree.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Mentha Mint.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Balſamita Coarſtmary.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The Leaves of <hi>Myrthon Mockcher<g ref="char:EOLhyphen"/>vill.</hi>
+                           </cell>
+                           <cell>The Leaves of wood-Peare-Sumach, Maſtick Wild Olive, Service or Quince Trees.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of the ſame.</cell>
+                           <cell>The berries of it and greene unripe wall<g ref="char:EOLhyphen"/>nuts.</cell>
+                        </row>
+                        <row>
+                           <cell>The white Myrth. <hi>Nardum Monta.</hi>
+                           </cell>
+                           <cell>The black &amp; contra. </cell>
+                        </row>
+                        <row>
+                           <cell>Mountaine ſpike<g ref="char:EOLhyphen"/>nard.</cell>
+                           <cell>
+                              <hi>Italic,</hi> or French Spikenard.</cell>
+                        </row>
+                        <row>
+                           <cell>The <hi>Nymphaea Alba,</hi> white water Lilly.</cell>
+                           <cell>The yellow and con<g ref="char:EOLhyphen"/>tra.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of the wild Olive.</cell>
+                           <cell>The leaves of the Olive Tree.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of the Olive or Ma<g ref="char:EOLhyphen"/>ſtick.</cell>
+                           <cell>The leaves of the Walnut, Cypreſſe tree Pine or wild Pine.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Oxyacantha vera,</hi> right white thorn.</cell>
+                           <cell>
+                              <hi>Pyraſtrum</hi> the wilde Peare tree.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of white Poppy.</cell>
+                           <cell>The leaves of night<g ref="char:EOLhyphen"/>ſhade, black Poppy, &amp; of white Henbane.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of <hi>Pe<g ref="char:EOLhyphen"/>plus</hi> round hea<g ref="char:EOLhyphen"/>ded ſpurge.</cell>
+                           <cell>The leaves of Sea Let<g ref="char:EOLhyphen"/>tice or ſpurge.</cell>
+                        </row>
+                        <pb n="18" facs="tcp:115561:12"/>
+                        <row>
+                           <cell>The leaves of <hi>Phi<g ref="char:EOLhyphen"/>lyrea mock Privet.</hi>
+                           </cell>
+                           <cell>Olive Tree Leaves and contra.</cell>
+                        </row>
+                        <row>
+                           <cell>Harts Tongue <hi>Phyllitis.</hi>
+                           </cell>
+                           <cell>Smooth ſpleenewort, Miltwaſte or Ceterach and contra.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of the Pitch Tree.</cell>
+                           <cell>The Leaves of the Pine Tree.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of <hi>Pithyuſa</hi> Pine ſpurge.</cell>
+                           <cell>The Leaves of <hi>Ti<g ref="char:EOLhyphen"/>thymali</hi> Spurge or Milkwort.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Polygonum</hi> the leaves of Maſ<g ref="char:EOLhyphen"/>culſt not-graſſe.</cell>
+                           <cell>The Leaves of the <hi>Feminine</hi> of the ſame.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Pulegion regal</hi> great Peny royall.</cell>
+                           <cell>French or Harts Peny royall.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Portulaca</hi> Pur<g ref="char:EOLhyphen"/>ſlaine.</cell>
+                           <cell>
+                              <hi>Vmbelicum Veneris</hi> Kidneywort, Wall Pe<g ref="char:EOLhyphen"/>niwort.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ruta ſylv.</hi> wild Rue.</cell>
+                           <cell>Dried Garden Rue in a greater quantity and contra.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of <hi>Savin.</hi>
+                           </cell>
+                           <cell>The leaves of Cypres juniper and Caſſia.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves <hi>Sam<g ref="char:EOLhyphen"/>buci</hi> Elder.</cell>
+                           <cell>The leaves of <hi>Ebuli,</hi> and contra.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of fe<g ref="char:EOLhyphen"/>male <hi>Sangui<g ref="char:EOLhyphen"/>nalis</hi> Bloodwort.</cell>
+                           <cell>The leaves of <hi>Maſ<g ref="char:EOLhyphen"/>culine,</hi> and contra.</cell>
+                        </row>
+                        <row>
+                           <cell>The greater <hi>ſem<g ref="char:EOLhyphen"/>pervivum</hi> Howſlick.</cell>
+                           <cell>The ſmale Kidney<g ref="char:EOLhyphen"/>wort, or ſmall Peny<g ref="char:EOLhyphen"/>wort.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Seride Endive.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Chondrillam Gumme Succory.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of <hi>Seris Endive.</hi>
+                           </cell>
+                           <cell>The leaves of Lettice.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Smyrnium Lovage</hi>
+                           </cell>
+                           <cell>Parſley or rock Parſly.</cell>
+                        </row>
+                        <pb n="19" facs="tcp:115561:12"/>
+                        <row>
+                           <cell>Garden night<g ref="char:EOLhyphen"/>ſhade.</cell>
+                           <cell>
+                              <hi>Halicacabum,</hi> Win<g ref="char:EOLhyphen"/>ter cherries.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Soncho</hi> common Sowthiſtle.</cell>
+                           <cell>Prickly Sowthiſtle.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of the ſervice Tree.</cell>
+                           <cell>The leaves of the med<g ref="char:EOLhyphen"/>lar Tree and contra.</cell>
+                        </row>
+                        <row>
+                           <cell>Indian ſpicknard.</cell>
+                           <cell>
+                              <hi>Syriack or Valerian.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Italian ſpikenard.</cell>
+                           <cell>The Garden ſort of it.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Staebe Dioſc</hi>
+                           </cell>
+                           <cell>Knapweed <hi>Scabeous,</hi> 
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Thorny burnet.</cell>
+                           <cell>Shepeards purſe, da<g ref="char:EOLhyphen"/>ſies all ſorts and Cud<g ref="char:EOLhyphen"/>wort.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of Rocke Wallwort or Comfrey.</cell>
+                           <cell>The leaves of another ſort or ſelfe heale.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Orpine Telephum.</hi>
+                           </cell>
+                           <cell>Purſlaine.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of <hi>Te<g ref="char:EOLhyphen"/>rebinthi</hi> the Tur<g ref="char:EOLhyphen"/>pine Tree</cell>
+                           <cell>The leaves of the Ma<g ref="char:EOLhyphen"/>ſtick Tree.</cell>
+                        </row>
+                        <row>
+                           <cell>The ſorts of <hi>Thlaſpi</hi> Treacle Muſtard.</cell>
+                           <cell>
+                              <hi>Naſturtia Creſſes.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Thymbra Savory.</hi>
+                           </cell>
+                           <cell>Time &amp; mother Time.</cell>
+                        </row>
+                        <row>
+                           <cell>Tyme.</cell>
+                           <cell>Savory, Organy.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of one ſort of Spurg, or Milkwort.</cell>
+                           <cell>The leaves of another ſort in purging.</cell>
+                        </row>
+                        <row>
+                           <cell>Goates <hi>Marjorum.</hi>
+                           </cell>
+                           <cell>Organy and Contra.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Land caltrops,</hi> in cooling receipts.</cell>
+                           <cell>Water caltrops, not in moiſtning medicines.</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves of one ſort <hi>Verbaſci</hi> of <hi>Mullein.</hi>
+                           </cell>
+                           <cell>The leaves of another ſort.</cell>
+                        </row>
+                        <row>
+                           <cell>White Briony.</cell>
+                           <cell>Black and contra</cell>
+                        </row>
+                        <row>
+                           <cell>The leaves and ſeeds <hi>Diticis</hi> of the Chaſt-tree.</cell>
+                           <cell>The leaves and ſeed of Rue.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Succedanea of Seeds.</head>
+                  <p>
+                     <table>
+                        <pb n="20" facs="tcp:115561:13"/>
+                        <row role="label">
+                           <cell>For </cell>
+                           <cell>Take</cell>
+                        </row>
+                        <row>
+                           <cell>The ſeed of <hi>Aſa<g ref="char:EOLhyphen"/>rabacca.</hi>
+                           </cell>
+                           <cell>The ſeed of Furſe or Thorne broome.</cell>
+                        </row>
+                        <row>
+                           <cell>The Seed of Ba<g ref="char:EOLhyphen"/>ſtard Saffron.</cell>
+                           <cell>Nettle Seed or <hi>Aga<g ref="char:EOLhyphen"/>rick</hi> not made into a <hi>Trochus.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Mandrakes ſeed.</cell>
+                           <cell>Hemlock ſeed.</cell>
+                        </row>
+                        <row>
+                           <cell>The ſeeds of the <hi>Myrthi Myrtle.</hi>
+                           </cell>
+                           <cell>Of the Barbery Tree and contra.</cell>
+                        </row>
+                        <row>
+                           <cell>Turnop ſeed.</cell>
+                           <cell>Rape ſeed.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Succedanea of Juices.</head>
+                  <p>
+                     <table>
+                        <row role="label">
+                           <cell>For</cell>
+                           <cell>Take</cell>
+                        </row>
+                        <row>
+                           <cell>For Juice of Wormwood.</cell>
+                           <cell>Of Southernewood wel prepared, or of the leſſer centory, or of either ſort of <hi>Coſemary,</hi> or <hi>Maudline.</hi> or</cell>
+                        </row>
+                        <row>
+                           <cell>The Juice of Wormewood.</cell>
+                           <cell>The juice of Pon<g ref="char:EOLhyphen"/>tick, or Roman worm<g ref="char:EOLhyphen"/>wood in outward re<g ref="char:EOLhyphen"/>medies: <hi>Levant</hi> Wormwood if waſht, may gently be given inwardly.</cell>
+                        </row>
+                        <row>
+                           <cell>The Juice of <hi>Aca<g ref="char:EOLhyphen"/>cia</hi> binding beanetree.</cell>
+                           <cell>Of the Black Thorne, Slowbuſh, or ſelfe-heale.</cell>
+                        </row>
+                        <row>
+                           <cell>Fountaine water.</cell>
+                           <cell>River water.</cell>
+                        </row>
+                        <row>
+                           <cell>The juice of the <hi>Pomecitron.</hi>
+                           </cell>
+                           <cell>Of Lemon.</cell>
+                        </row>
+                        <row>
+                           <cell>Of Sowbread.</cell>
+                           <cell>Of Flower deluce.</cell>
+                        </row>
+                        <row>
+                           <cell>The Juice of Li<g ref="char:EOLhyphen"/>coris.</cell>
+                           <cell>Of the ſame decocted and infuſed; or of Raiſons of the Sunne, or Cute.</cell>
+                        </row>
+                        <row>
+                           <cell>The juice of Box<g ref="char:EOLhyphen"/>thorne.</cell>
+                           <cell>Of Felwort in ulcers.</cell>
+                        </row>
+                        <row>
+                           <cell>The Juice of the ſame.</cell>
+                           <cell>The Lees of Oyle.</cell>
+                        </row>
+                        <pb n="21" facs="tcp:115561:13"/>
+                        <row>
+                           <cell>Grape Varjuice.</cell>
+                           <cell>Of Sumack and cont.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Opium</hi> the juice of the heads of Poppies.</cell>
+                           <cell>
+                              <hi>Meconium</hi> or the juice of the Leaves, or the Juice of wild or gar<g ref="char:EOLhyphen"/>den Lettice in a grea<g ref="char:EOLhyphen"/>ter quantity.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Opobalſamum,</hi> the juice of the Baſ<g ref="char:EOLhyphen"/>ſame tree.</cell>
+                           <cell>
+                              <hi>Stacte</hi> or the juice of Storax not adultera<g ref="char:EOLhyphen"/>ted, or of Myrrh.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>In infuſion for digeſtion, take the Oyle of Italian Spike or Spiknard.</p>
+                  <p>
+                     <table>
+                        <row role="label">
+                           <cell>For</cell>
+                           <cell>Take</cell>
+                        </row>
+                        <row>
+                           <cell>The juice of Spurge Olive.</cell>
+                           <cell>Of Dwarfe Bay.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Succedanea of Liquors and Gummes.</head>
+                  <p>
+                     <table>
+                        <row role="label">
+                           <cell>For</cell>
+                           <cell>Take</cell>
+                        </row>
+                        <row>
+                           <cell>Turpentine of the Firr tree.</cell>
+                           <cell>Of the Pine.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Aſpalth</hi> the dry pitch of India,</cell>
+                           <cell>The Oyle of <hi>Peter</hi> and <hi>contra.</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Cedar Roſin,</cell>
+                           <cell>The oyle of the bowes of Juniper, or the gumme of Juniper.</cell>
+                        </row>
+                        <row>
+                           <cell>Cypreſſe Roſin,</cell>
+                           <cell>Larch tree Roſin.</cell>
+                        </row>
+                        <row>
+                           <cell>Gum Lake,</cell>
+                           <cell>Myrrh.</cell>
+                        </row>
+                        <row>
+                           <cell>Manna of the Frankincenſe tree,</cell>
+                           <cell>The barke to which ſome of the Frankin<g ref="char:EOLhyphen"/>cenſe ſticketh.</cell>
+                        </row>
+                        <row>
+                           <cell>Maſtick,</cell>
+                           <cell>Turpintine of Fir tree hardned or dryed.</cell>
+                        </row>
+                        <row>
+                           <cell>Mumme,</cell>
+                           <cell>
+                              <hi>Piſaphalthum</hi> or <hi>Bitu<g ref="char:EOLhyphen"/>minous,</hi> hard Pitch.</cell>
+                        </row>
+                        <row>
+                           <cell>Myrrh,</cell>
+                           <cell>
+                              <hi>Bdellium</hi> or the juice of <hi>Aliſanders</hi> and Parſley.</cell>
+                        </row>
+                        <row>
+                           <cell>For the Gumme of the Olive tree, </cell>
+                           <cell>Of gumme Elemni.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Opobalſanum,</hi> the juice of the Bal<g ref="char:EOLhyphen"/>ſame tree,</cell>
+                           <cell>
+                              <hi>Stacte</hi> or liquid Balme prepared by nature or art. The liquor of the Turpine tree.</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="22" facs="tcp:115561:14"/>
+                  <p>Not the juice of <hi>Carpaſus;</hi> not Oyle of Lawrell, not the liquor of Myrthi nor the ſeed of Setwall, as ſome have preſcribed.</p>
+                  <p>
+                     <table>
+                        <row role="label">
+                           <cell>For</cell>
+                           <cell>Take</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Carpobalſamum,</hi> the berries or fruit of the Bal<g ref="char:EOLhyphen"/>ſame tree.</cell>
+                           <cell>The ſeed of the Ma<g ref="char:EOLhyphen"/>ſtick tree or Turpine tree, of which there are divers ſorts. Cubebs in a ſmaller doſe or two parts of the ſeed of the Turpine tree and of Cubebs.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Opopanax</hi> the Gum of Frankin<g ref="char:EOLhyphen"/>cenſe.</cell>
+                           <cell>The Gum of <hi>Amomum,</hi> or <hi>Galbanum,</hi> or <hi>Bdelliu<g ref="char:cmbAbbrStroke">̄</g>
+                              </hi> in outward remedies.</cell>
+                        </row>
+                        <row>
+                           <cell>Stone pitch,</cell>
+                           <cell>Pine Roſin boyld.</cell>
+                        </row>
+                        <row>
+                           <cell>Soft pitch,</cell>
+                           <cell>Stone pitch diſſolved in oyle, or ſoftned in Oyle of Juniper.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Piſſaphaltum,</hi> Bi<g ref="char:EOLhyphen"/>tuminous pitch,</cell>
+                           <cell>Pitch and Brimſtone.</cell>
+                        </row>
+                        <row>
+                           <cell>Storax,</cell>
+                           <cell>Benjamin.</cell>
+                        </row>
+                        <row>
+                           <cell>Turpentine,</cell>
+                           <cell>Maſtick.</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Xylobalſamum,</hi> the wood of the Bal<g ref="char:EOLhyphen"/>ſame tree,</cell>
+                           <cell>Shoots or ſprouts of the Maſtick tree.</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Succedanea of Minerals.</head>
+                  <p>For Antimony take burnt Lead &amp; <hi>contra,</hi> or burnt Tinne. For <hi>Cadmia</hi> ore of Braſſe, take the ſtone out of which it is extracted. For the Flower of Braſſe, take the green ruſt. For white Lead, take burnt Lead, or Lead ore For Lead, take Tinne. For the ſoile or ore of Braſſe or Pompholix, take <hi>Spodium</hi> the ſoot of the trying of Braſſe. For Sandarack, red Arſenick, take Arſenick Orpine. For <hi>Spodium</hi> the ſoot of the trying of Braſſe, take <hi>Antiſpodium,</hi> Aſhes made of the Myrtle, Maſtick, and Oyle of the wilde Olive, Quince trees and Harts horne.</p>
+                  <trailer>The end.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
